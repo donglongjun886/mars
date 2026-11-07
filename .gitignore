@@ -15,3 +15,9 @@ wheels/
 .ruff_cache/
 .coverage
 htmlcov/
+
+# Local secrets
+.env
+
+# Local issue tracker
+.scratch/
